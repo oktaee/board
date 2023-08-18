@@ -10,9 +10,11 @@ pipeline {
             DEPLOY_Host="3.38.219.163"
         }
     stages {
-    steps{
-        sh "apt-get update && apt-get install ssh -y"
-    }
+        stage{
+         steps{
+                sh "apt-get update && apt-get install ssh -y"
+         }
+        }
         stage('Pull Codes from Github'){
             steps{
                 checkout scm
