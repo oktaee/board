@@ -12,7 +12,7 @@ pipeline {
     stages {
         stage('update or install ssh'){
          steps{
-                sh "apt update && apt install ssh -y"
+                sh "sudo apt update && apt install ssh -y"
          }
         }
         stage('Pull Codes from Github'){
