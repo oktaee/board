@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="476d2215-deda-4ef2-89ee-12e6589abff4" name="변경" comment="수정됬음 ㅇㅋ?">
+    <list default="true" id="476d2215-deda-4ef2-89ee-12e6589abff4" name="변경" comment="수정됬음 ㅇㅋ? 2트">
       <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1692318933988</updated>
       <workItem from="1692318935118" duration="5098000" />
-      <workItem from="1692338827301" duration="2720000" />
+      <workItem from="1692338827301" duration="2794000" />
     </task>
     <task id="LOCAL-00001" summary="dd">
       <created>1692339507373</created>
@@ -84,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692341936306</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="수정됬음 ㅇㅋ? 2트">
+      <created>1692342005996</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692342005996</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +112,7 @@
     <MESSAGE value="dd" />
     <MESSAGE value="ADD steps | update or install ssh" />
     <MESSAGE value="수정됬음 ㅇㅋ?" />
-    <option name="LAST_COMMIT_MESSAGE" value="수정됬음 ㅇㅋ?" />
+    <MESSAGE value="수정됬음 ㅇㅋ? 2트" />
+    <option name="LAST_COMMIT_MESSAGE" value="수정됬음 ㅇㅋ? 2트" />
   </component>
 </project>
